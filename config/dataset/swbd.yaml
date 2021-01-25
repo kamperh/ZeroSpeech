@@ -1,0 +1,3 @@
+dataset:
+  path: swbd
+  n_speakers: 1131

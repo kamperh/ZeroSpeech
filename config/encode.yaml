@@ -3,6 +3,9 @@ defaults:
     - preprocessing: default
     - model: default
 
+split: test
 checkpoint: ???
 out_dir: ???
 save_auxiliary: False
+save_indices: False
+save_embedding: False
