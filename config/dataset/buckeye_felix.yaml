@@ -1,0 +1,3 @@
+dataset:
+  path: buckeye_felix
+  n_speakers: 32

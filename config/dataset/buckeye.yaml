@@ -1,0 +1,3 @@
+dataset:
+  path: buckeye
+  n_speakers: 32
