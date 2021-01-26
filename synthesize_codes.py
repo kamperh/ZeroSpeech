@@ -37,7 +37,7 @@ def check_argv():
         "code_indices_fn", type=str, help="text file with code indices"
         )
     parser.add_argument(
-        "--speaker", type=str, default="V001",
+        "--speaker", default="V002", choices=["V001", "V002"],
         help="speaker identifier (default: %(default)s)"
         )
     if len(sys.argv) == 1:
